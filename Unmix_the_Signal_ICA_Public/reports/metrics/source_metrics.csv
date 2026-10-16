@@ -1,0 +1,4 @@
+source_index,source_name,estimated_component,correlation,si_sdr_db
+1,Speech (eSpeak TTS),1,0.9999643400466887,41.467660032293374
+2,Synthetic instrumental music,3,0.9999282444822415,38.43067955368809
+3,Synthetic rain ambience,2,0.999945398627365,39.617308729219666
